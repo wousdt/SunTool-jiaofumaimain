@@ -1,4 +1,4 @@
-# FoxTool-main
+# SunTool.vip
 
 好用的Solana工具箱 
 
